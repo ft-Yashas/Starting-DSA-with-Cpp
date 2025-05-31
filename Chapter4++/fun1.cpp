@@ -8,10 +8,6 @@ int printHello()
 }
 int main()
 {
-    // int n = printHello();
-    // cout<<"n = "<<n<<endl;   
-
-    //or
 
     cout<<printHello()<<endl;
 
