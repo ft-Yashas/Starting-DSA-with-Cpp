@@ -4,7 +4,7 @@ Welcome to my journey of mastering **Data Structures and Algorithms (DSA)** usin
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 | Folder Name        | Description                                      |
 |--------------------|--------------------------------------------------|
@@ -17,7 +17,7 @@ Welcome to my journey of mastering **Data Structures and Algorithms (DSA)** usin
 
 ---
 
-## 🧠 What's Inside?
+## What's Inside?
 
 - Clean and structured C++ programs  
 - Practice problems with different levels of difficulty  
